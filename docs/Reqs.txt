@@ -1,0 +1,20 @@
+Description:
+The purpose of this test is to test your familiarity with C#, MVC, HTML, and CSS.  All items we use on a regular basis to maintain current functionality and add new functionality to Alaska Airlines digital footprint. Please approach this test as if you were intending on deploying this to a production environment.  This includes using the same patterns and practices you would use in a production environment.  Also assume other engineers will have to maintain and or add functionality to this in the future.
+ 
+The result of this coding test will need to be sent to the development manager.  The code will then be reviewed by engineers on staff to determine the next steps in the hiring process.
+
+Data Files (attached CSVs)
+- List of airports
+- List of flights going from one airport to another
+ 
+Required Functionality
+- User should be able to search for flights between two different airports.
+- User should be able to see a list of flights matching the search parameters on the previous step
+- User should be able to sort the flights by price or departure
+ 
+Some Helpful Hints
+- CSV Helper - https://www.nuget.org/packages/CsvHelper/2.16.3
+ 
+Extra Credit
+- Expose necessary actions as json endpoints
+- Using the JavaScript library of your choosing create a single page application encompassing the required functionality
